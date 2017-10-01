@@ -92,3 +92,4 @@ void Str::Full(QString str)
 {
 message(inverse(str).toUpper());
 }
+/////////
