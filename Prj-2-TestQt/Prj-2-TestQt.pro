@@ -8,7 +8,7 @@ QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = Prj-1-TestQt
+TARGET = Prj-2-TestQt
 TEMPLATE = app
 
 # The following define makes your compiler emit warnings if you use
